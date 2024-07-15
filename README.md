@@ -3,6 +3,11 @@
 ## Introduction
 This is the source code for the Bacon Fansite, a simple website dedicated to pizza lovers, with a special focus on bacon as a topping. The website features animated headings, icons representing pizza ingredients, and interactive elements.
 
+![pizza](https://github.com/user-attachments/assets/fd63b066-7be8-4f3e-8d78-b0fc31b70a77)
+![pizza 2](https://github.com/user-attachments/assets/1e4c7eed-1d38-40fc-b35b-a189170ba34b)
+
+
+
 ## File Structure
 - **index.html**: Main HTML file containing the structure and content of the website.
 - **CSS/Styles.css**: CSS file containing styles for the website layout and appearance.
